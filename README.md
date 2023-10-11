@@ -11,3 +11,4 @@ Al juego le puse un control de velocidad para a baja velocidad muestre los sprit
 
 Le he puesto en la parte derecha, el numero de movimientos, el numero de coleccionables por coger, el numero de enemigos,  la velocidad del personaje y los movimiento posibles en esa posición.
 
+https://youtu.be/eFrCvv4EnhE
